@@ -18,7 +18,7 @@
 <a href="https://twitter.com/arshadkawaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshadkawaii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arshad-jack-5a8213195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arshad-jack-5a8213195/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/arsha.kawaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arsha.kawaii" height="30" width="40" /></a>
-<a href="https://discord.gg/ARSHADJACK55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ARSHADJACK55" height="30" width="40" /></a>
+<a href="[https://discord.gg/ARSHADJACK55](https://discord.gg/wVPbQkzw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ARSHADJACK55" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
