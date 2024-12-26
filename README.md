@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 , I am Muhammad Arshad | University Student</h1>
-<img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30"> , I am Muhammad Arshad | University Student</h1>
 <h3 align="center">I am A University Student wishing to learn about programing</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadarshad1234-utm" alt="muhammadarshad1234-utm" /></a> </p>
