@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arshadkawaii5@gmail.com**
 
-- ⚡ Fun fact **I like take stuff apart and built it back together**
+- ⚡ Fun fact **I like take stuff apart and put it back together**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
